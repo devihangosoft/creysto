@@ -169,11 +169,11 @@ function Register() {
   return (
     <>
       <div className="container">
-        <div className="row align-items-center justify-content-between">
-          <div className="col-md-5 b-center bg-size">
+        <div className="row justify-content-between">
+          <div className="col-md-7 b-center bg-size">
             <LeftSideImage />
           </div>
-          <div className="col-md-7 p-0">
+          <div className="col-md-5 p-0">
             <div className="login-card">
               <div>
                 <div className="text-center">
